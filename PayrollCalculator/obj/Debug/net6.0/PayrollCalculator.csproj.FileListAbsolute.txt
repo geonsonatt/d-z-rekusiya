@@ -1,0 +1,14 @@
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\bin\Debug\net6.0\PayrollCalculator.exe
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\bin\Debug\net6.0\PayrollCalculator.deps.json
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\bin\Debug\net6.0\PayrollCalculator.runtimeconfig.json
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\bin\Debug\net6.0\PayrollCalculator.dll
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\bin\Debug\net6.0\PayrollCalculator.pdb
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.AssemblyInfoInputs.cache
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.AssemblyInfo.cs
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.dll
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\refint\PayrollCalculator.dll
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.pdb
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\PayrollCalculator.genruntimeconfig.cache
+C:\Users\geran\OneDrive\Рабочий стол\neww\PayrollCalculator\obj\Debug\net6.0\ref\PayrollCalculator.dll
