@@ -1,21 +1,24 @@
-﻿using System;
+using System;
 
 class Program {
+    // Главная точка входа в программу.
     static void Main() {
-        int m = 3; // Задайте значение m
-        int n = 2; // Задайте значение n
+        int startNumber = 3;  // Начальное значение диапазона
+        int endNumber = 10;   // Конечное значение диапазона
 
-        int result = Ackermann(m, n);
-        Console.WriteLine($"Ackermann({m}, {n}) = {result}");
+        PrintNumbersFromMToN(startNumber, endNumber);
     }
 
-    static int Ackermann(int m, int n) {
-        if (m == 0) {
-            return n + 1;
-        } else if (m > 0 && n == 0) {
-            return Ackermann(m - 1, 1);
-        } else {
-            return Ackermann(m - 1, Ackermann(m, n - 1));
+    // Рекурсивная функция для вывода чисел от M до N.
+    // 'currentNumber' - текущее число для вывода.
+    // 'endNumber' - последнее число в диапазоне для вывода.
+    static void PrintNumbersFromMToN(int currentNumber, int endNumber) {
+        Console.WriteLine(currentNumber);  // Вывод текущего числа
+
+        // Проверка условия для рекурсивного вызова: если текущее число меньше конечного,
+        // вызываем функцию снова с увеличенным значением текущего числа.
+        if (currentNumber < endNumber) {
+            PrintNumbersFromMToN(currentNumber + 1, endNumber);
         }
     }
 }
